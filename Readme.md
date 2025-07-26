@@ -9,7 +9,15 @@ Node.js backend Project setup : -
 Push all data on github
     Create folders in src folder : controllers, db, middlewares, models, route and utils
     Create files in src folder : app.js, constants.js and index.js
+    Install prettier with -D (devDependencies)
+    Create files .prettierrc & .prettierignore and add some code
 
 ------------------Complete project setup-------------------------
+
+db1234
+
+cluster setting
+    Add New database
+db name add in constatnts.db file
 
 
