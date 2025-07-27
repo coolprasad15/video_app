@@ -34,5 +34,11 @@ Update utils folder with error and response file
     apiError.js for error handling
     apiResponse for success handling
 
+Create User and Video model
+    Use bcrypt for exncrypt password as well decrypt also
+    User jwt token ACCESS and REFRESH keys
+
+
+
 
 
