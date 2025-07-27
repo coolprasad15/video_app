@@ -38,7 +38,8 @@ Create User and Video model
     Use bcrypt for exncrypt password as well decrypt also
     User jwt token ACCESS and REFRESH keys
 
-
+Install multer & Cloudinary
+    multer middleware code
 
 
 
