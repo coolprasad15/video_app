@@ -1,5 +1,5 @@
 Node.js backend Project setup : -
-    Create folder and command "nom init -y" or In vscode "npm init (project name)"
+    Create folder and command "npm init -y" or In vscode "npm init (project name)"
     Add in package.json file "type":"modules" and "dev": nodemon src/index.js
     Readme.md
     Git setup
